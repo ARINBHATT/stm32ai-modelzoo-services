@@ -20,7 +20,7 @@ dataset:
   test_path:              # Optional
   quantization_path:      # Optional
   quantization_split:     # Optional
-  check_image_files: False  # Optional, set it to True if you want to check that all the image files can be read successfully
+  check_image_files: False  # Optional, set it to True if you want to check fthat all the image files can be read successfully
   seed: 127               # Optional, there is a default seed
 
 preprocessing:
